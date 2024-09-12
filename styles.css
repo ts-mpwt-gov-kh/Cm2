@@ -195,11 +195,11 @@ body {
 }
 
 @media only screen and (main-width:768px) and (max-width:991px) {
-    /CSS rules for mobile devices */
+    /*CSS rules for mobile devices */
 }
 
 @media only screen and (min-width:992px) and (max-width:1199px) {
-    /CSS rules for Labtops */
+    /*CSS rules for Labtops */
 }
 
 .tab-content {
